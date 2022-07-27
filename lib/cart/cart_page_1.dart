@@ -98,7 +98,7 @@ class _CartPage1State extends State<CartPage1> with TickerProviderStateMixin {
                     controller: _tabController,
                     children: [
                       Image(image: NetworkImage(
-                        ''
+                        'https://i.pinimg.com/736x/74/db/38/74db381d0642cb7efaf11bc8de99a8d8.jpg'
                       ))
 
                 ]),
